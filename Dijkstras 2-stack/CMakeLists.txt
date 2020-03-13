@@ -3,4 +3,4 @@ project(Dijkstras_2_stack C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Dijkstras_2_stack main.c)
+add_executable(Dijkstras_2_stack main.c stack.c stack.h)
